@@ -1,2 +1,2 @@
 # SMDnD
- Criando um sistema pra me ajudar com minhas mesas de rpg
+A ideia é criar um aplicativo para desktop para me ajudar com minhas mesas de rpg, e aproveitar para aumentar meus conhecimentos com Tkinter.
